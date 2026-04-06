@@ -1,11 +1,10 @@
 # Fume Extractor
 A simple fume extractor with adjustable fan speed.
 # PCB + Schematic
+Simple board for controlling fan speed!
+
 ![pcb](pcb.png)
 ![schematic](schematic.png)
-
-Simple circuit board for controlling fan speed!
-
 # BOM
 Materials used:
 - x1 15x15 JLCPCB shipping box
