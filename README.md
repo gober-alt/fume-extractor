@@ -3,6 +3,7 @@ A simple fume extractor with adjustable fan speed.
 # PCB + Schematic
 ![pcb](pcb.png)
 ![schematic](schematic.png)
+
 Simple circuit board for controlling fan speed!
 
 # BOM
